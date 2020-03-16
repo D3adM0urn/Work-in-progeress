@@ -1,0 +1,173 @@
+
+.header
+{
+ display:grid;
+ grid-template-columns: 1fr 3fr 1fr;
+ grid-template-rows: 1fr;
+ grid-gap: 1em;
+ 
+ margin:0;
+ padding:0;
+ 
+ 
+ 
+}
+.header-nav_link
+ {
+ padding:165px;
+ margin-top:-100px;
+ margin-left:240px;
+ 
+
+
+ }
+ .logo
+ {
+  margin-left:256px;
+  margin-top:-87px;
+  
+ }
+  .baton
+  {
+	  background:yellow;
+	  color:black;
+	  border: 1px solid black;
+  }
+  .help
+  {
+	  margin-left:256px;
+  margin-top:-128px;
+  background:yellow;
+  }
+  .main1
+  {
+ display:grid
+ grid-template-columns: 1fr 1fr 1fr;
+grid-template-rows: 1fr 1fr 1fr 1fr;  
+background: url('Shar.jpg');
+background-size:cover;
+height:600px;
+  }
+  .main_text
+  {
+	  color:white;
+	 font-size:250%;	
+	 margin-left:690px;
+	 padding-top:150px;
+	  
+  }
+  .under_text
+  {
+    color:white;
+	margin-left:850px;
+	padding-top: 10px;
+	font-size:150%
+  }
+  .main_logo
+  {
+	  margin-left:900px;
+	  padding-top:15px;
+  }
+section.flat button {
+color:black;
+background-color:yellow;
+text-shadow: 1px 1px #417cb8;
+border: none;
+margin-top:130px;
+}
+form {
+  position: relative;
+  width: 300px;
+  margin: 0 auto;
+  background:white;
+}
+
+.main2
+{
+	display:grid;
+	grid-template-columns:50% 50%;
+}
+.main2_logo
+{
+background:black;
+color:white;
+height:550px;
+ padding-left:300px;
+ padding-top:75px;
+ 
+	
+}
+.main2_text
+{
+	background:yellow;
+		height:624px;
+}
+section.flat2 button {
+color:black;
+background-color:yellow;
+text-shadow: 1px 1px #417cb8;
+border: none;
+margin-top:130px;
+}
+.main3 
+{
+display:grid;
+grid-template-columns:1fr 1fr 1fr 1fr;
+grid-template-rows: 1fr 1fr;
+background-image: url('fon.jpg');
+height:600px;
+background-size:cover;
+}
+
+
+.main4
+{
+	height:400px;
+}
+.main5
+{
+	height:200px;
+	background:black;
+}
+.footer
+{
+	display:grid;
+	grid-template-columns:75% 25%;
+	background: url('karta mira.jpg');
+	height:550px;
+}
+form {
+  position: relative;
+  width: 300px;
+  margin: 0 auto;
+  background:white;
+}
+input, button {
+  border: none;
+  outline: none;
+  background: transparent;
+}
+input {
+  width: 100%;
+  height: 42px;
+  padding-left: 15px;
+}
+.main3_logo1
+{
+	padding-left:200px;
+	padding-top:220px;
+	
+}
+.main3_logo2 
+{
+	padding-left: 200px;
+	padding-top:180px;
+	
+}
+.main3_logo3
+{
+	padding-left: 200px;
+	padding-top:195px;
+	
+}
+
